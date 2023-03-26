@@ -15,4 +15,4 @@ RUN npm install --production
 
 COPY . .
 
-CMD [ "node", "main.js" ]
+# CMD [ "node", "main.js" ]
